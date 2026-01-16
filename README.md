@@ -9,6 +9,14 @@ This project has "one theme, a vending machine."
 
 It shows the above contents.
 
+order of reading
+1. A model of reality (Vending Machine.png)
+2. Converting real-world data to Excel (자판기 더미데이터.xlsx)
+3. Console Development Language (Vending Machine.java)
+4. HTML Design(Vending Machine.html)
+5. Web Development Language(Vending Machine.php)
+6. Web Development Language(Vending Machine.jsp)
+
 # 자판기
 장난감 프로젝트(자판기)
 
@@ -19,3 +27,11 @@ It shows the above contents.
 3. 각 언어를 어떻게 표현이 가능한가?  -> 각 언어의 윤곽
 
 상기의 내용들을 보여줍니다.
+
+열람순서
+1. 현실의 모델(Vending Machine.png)
+2. 현실의 데이터를 엑셀으로 변환(자판기 더미데이터.xlsx)
+3. 콘솔 개발언어(Vending Machine.java)
+4. HTML 디자인(Vending Machine.html)
+5. 웹 개발언어(Vending Machine.php)
+6. 웹 개발언어(Vending Machine.jsp)
