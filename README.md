@@ -1,5 +1,6 @@
 # vending_machine
 Toy Project(all Vending machine)
+
 This project has "one theme, a vending machine."
 
 1. What can you think of if you give a topic? -> Planning ability
@@ -10,6 +11,7 @@ It shows the above contents.
 
 # 자판기
 장난감 프로젝트(자판기)
+
 본 프로젝트는 "자판기 라는 1가지 주제"를 가지고
 
 1. 주제를 주면 어떤 생각을 가능한가? -> 기획 능력
