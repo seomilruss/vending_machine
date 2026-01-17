@@ -13,8 +13,9 @@ order of reading / 열람순서
 1. A model of reality / 현실의 모델(vending Machine.png)
 ![vending Machine](https://github.com/user-attachments/assets/18ebd9c6-0308-4073-9121-2629503fd739)
 
-
 2. Converting real-world data to Excel / 현실의 데이터를 엑셀으로 변환(vending_ machine_dummy_data.xlsx)
+![캡처](https://github.com/user-attachments/assets/3a8af73b-a276-4716-8e7a-97d1898916b0)
+
 3. Console Development Language / 콘솔 개발언어 (vending Machine.c)
 4. Console Development Language / 콘솔 개발언어 (Vending Machine.java)
 5. HTML Design / HTML 디자인(vending Machine.html)
