@@ -26,6 +26,8 @@ order of reading / 열람순서
 ![캡처](https://github.com/user-attachments/assets/f01a73eb-cece-44d8-a2c1-cf355fb057bf)
 
 6. Web Development Language / 웹 개발언어(vending Machine.php)
+![캡처](https://github.com/user-attachments/assets/b721a6e0-8c3a-44dd-a09d-1c2920648e4a)
+
 7. Web Development Language / 웹 개발언어(Vending Machine.jsp)
 
 
