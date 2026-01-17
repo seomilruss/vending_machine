@@ -29,5 +29,6 @@ order of reading / 열람순서
 ![캡처](https://github.com/user-attachments/assets/b721a6e0-8c3a-44dd-a09d-1c2920648e4a)
 
 7. Web Development Language / 웹 개발언어(Vending Machine.jsp)
+![캡처](https://github.com/user-attachments/assets/d2425312-0531-4a82-b6ce-f461250d5903)
 
 
