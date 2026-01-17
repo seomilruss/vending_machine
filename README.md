@@ -16,8 +16,9 @@ order of reading / 열람순서
 2. Converting real-world data to Excel / 현실의 데이터를 엑셀으로 변환(vending_ machine_dummy_data.xlsx)
 ![캡처](https://github.com/user-attachments/assets/9551218a-c254-4afc-87ce-aadeaa69578c)
 
-
 3. Console Development Language / 콘솔 개발언어 (vending Machine.c)
+![캡처](https://github.com/user-attachments/assets/27548d2a-720f-4e5a-8280-1245d8c66e0f)
+
 4. Console Development Language / 콘솔 개발언어 (Vending Machine.java)
 5. HTML Design / HTML 디자인(vending Machine.html)
 6. Web Development Language / 웹 개발언어(vending Machine.php)
