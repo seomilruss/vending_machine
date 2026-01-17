@@ -14,7 +14,8 @@ order of reading / 열람순서
 ![vending Machine](https://github.com/user-attachments/assets/18ebd9c6-0308-4073-9121-2629503fd739)
 
 2. Converting real-world data to Excel / 현실의 데이터를 엑셀으로 변환(vending_ machine_dummy_data.xlsx)
-![캡처](https://github.com/user-attachments/assets/3a8af73b-a276-4716-8e7a-97d1898916b0)
+![캡처](https://github.com/user-attachments/assets/9551218a-c254-4afc-87ce-aadeaa69578c)
+
 
 3. Console Development Language / 콘솔 개발언어 (vending Machine.c)
 4. Console Development Language / 콘솔 개발언어 (Vending Machine.java)
