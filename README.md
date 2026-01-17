@@ -12,7 +12,8 @@ It shows the above contents. / 상기의 내용들을 보여줍니다.
 order of reading / 열람순서
 1. A model of reality / 현실의 모델(Vending Machine.png)
 2. Converting real-world data to Excel / 현실의 데이터를 엑셀으로 변환(자판기 더미데이터.xlsx)
-3. Console Development Language / 콘솔 개발언어 (Vending Machine.java)
-4. HTML Design / HTML 디자인(Vending Machine.html)
-5. Web Development Language / 웹 개발언어(Vending Machine.php)
-6. Web Development Language / 웹 개발언어(Vending Machine.jsp)
+3. Console Development Language / 콘솔 개발언어 (vending Machine.c)
+4. Console Development Language / 콘솔 개발언어 (Vending Machine.java)
+5. HTML Design / HTML 디자인(Vending Machine.html)
+6. Web Development Language / 웹 개발언어(Vending Machine.php)
+7. Web Development Language / 웹 개발언어(Vending Machine.jsp)
