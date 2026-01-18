@@ -23,6 +23,8 @@ order of reading / 열람순서
 ![캡처](https://github.com/user-attachments/assets/ffd0762f-c962-4309-ac86-199cc668a9bf)
 
 5. Console Development Language / 콘솔 개발언어 (vending_machine.py)
+![캡처](https://github.com/user-attachments/assets/77668499-26d5-461b-b69e-efe620d5f842)
+
 
 6. HTML Design / HTML 디자인(vending Machine.html)
 ![캡처](https://github.com/user-attachments/assets/f01a73eb-cece-44d8-a2c1-cf355fb057bf)
