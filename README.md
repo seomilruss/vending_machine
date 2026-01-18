@@ -12,7 +12,8 @@ It shows the above contents. / 상기의 내용들을 보여줍니다.
 프로젝트 특징
 1. 1개의 언어가 객체를 사용하면 다수의 언어도 동일하게 객체를 사용함(Ex_C에서 구조체 공용체 사용 -> Java, JSP, PHP, Python 등에서 객체 사용)
 /  If one language uses an object, many languages use the same object (Ex_C uses a structure community -> Java, JSP, PHP, Python, etc.)
-2. 동일하게 결과가 출력 되어야함 / All languages should have the same output.
+2. 모든 언어는 동일하게 결과가 출력 되어야함 / All languages should have the same output.
+3. 
 
 order of reading / 열람순서
 1. A model of reality / 현실의 모델(vending Machine.png)
