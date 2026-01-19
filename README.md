@@ -27,6 +27,8 @@ a tea vending machine / 차 전용 자판기(vending_machine_tea.sql)
 a drink vending machine / 음료 전용 자판기(vending_machine_drink.sql)
 a item vending machine / 물품 전용 자판기(vending_machine_item.sql)
 a goods vending machine / 범용 자판기(vending_machine_all_goods.sql)
+![캡처](https://github.com/user-attachments/assets/627e8dfa-1f09-4584-b31c-c7052bf0aa63)
+
 
 4. Console Development Language / 콘솔 개발언어 (vending_Machine.c)
 ![캡처](https://github.com/user-attachments/assets/27548d2a-720f-4e5a-8280-1245d8c66e0f)
