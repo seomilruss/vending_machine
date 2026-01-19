@@ -22,23 +22,29 @@ order of reading / 열람순서
 2. Converting real-world data to Excel / 현실의 데이터를 엑셀으로 변환(vending_machine_dummy_data.xlsx)
 ![캡처](https://github.com/user-attachments/assets/9551218a-c254-4afc-87ce-aadeaa69578c)
 
-3. Console Development Language / 콘솔 개발언어 (vending_Machine.c)
+3.SQLs tailored to the situation(SQL selection at development) / 상황에 미리 맞춘 SQL들(개발시 SQL선택)
+a tea vending machine / 차 전용 자판기(vending_machine_tea.sql)
+a drink vending machine / 음료 전용 자판기(vending_machine_drink.sql)
+a item vending machine / 물품 전용 자판기(vending_machine_item.sql)
+a goods vending machine / 범용 자판기(vending_machine_all_goods.sql)
+
+4. Console Development Language / 콘솔 개발언어 (vending_Machine.c)
 ![캡처](https://github.com/user-attachments/assets/27548d2a-720f-4e5a-8280-1245d8c66e0f)
 
-4. Console Development Language / 콘솔 개발언어 (VendingMachine.java)
+5. Console Development Language / 콘솔 개발언어 (VendingMachine.java)
 ![캡처](https://github.com/user-attachments/assets/ffd0762f-c962-4309-ac86-199cc668a9bf)
 
-5. Console Development Language / 콘솔 개발언어 (vending_machine.py)
+6. Console Development Language / 콘솔 개발언어 (vending_machine.py)
 ![캡처](https://github.com/user-attachments/assets/77668499-26d5-461b-b69e-efe620d5f842)
 
 
-6. HTML Design / HTML 디자인(vending_Machine.html)
+7. HTML Design / HTML 디자인(vending_Machine.html)
 ![캡처](https://github.com/user-attachments/assets/f01a73eb-cece-44d8-a2c1-cf355fb057bf)
 
-7. Web Development Language / 웹 개발언어(vending_Machine.php)
+8. Web Development Language / 웹 개발언어(vending_Machine.php)
 ![캡처](https://github.com/user-attachments/assets/b721a6e0-8c3a-44dd-a09d-1c2920648e4a)
 
-8. Web Development Language / 웹 개발언어(VendingMachine.jsp)
+9. Web Development Language / 웹 개발언어(VendingMachine.jsp)
 ![캡처](https://github.com/user-attachments/assets/d2425312-0531-4a82-b6ce-f461250d5903)
 
 
